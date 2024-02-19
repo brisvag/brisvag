@@ -1,0 +1,1 @@
+[![brisvag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brisvag&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
